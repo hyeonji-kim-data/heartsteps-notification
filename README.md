@@ -2,7 +2,7 @@
 
 Individual project, 2026 · [Portfolio page](https://hyeonji-kim-data.github.io/notifications.html)
 
-Does a response mean a notification worked? Health apps often judge notifications by engagement because it is easy to measure. Using a micro-randomized trial, in which every notification was sent or withheld at random, this project measures whether walking notifications actually increased steps, when, and for whom, and evaluates rules for sending fewer of them.
+Does a response mean a notification worked? Using a micro-randomized trial, in which every notification was sent or withheld at random, this project measures whether walking notifications actually increased steps, when, and for whom, and evaluates rules for sending fewer of them.
 
 **Found that users kept responding to about 70% of walking notifications after the step effect had faded, and that a weekday lunch-to-evening rule could remove 44% of them with no detectable loss in steps.**
 
